@@ -1,2 +1,4 @@
-# cursoGitOnLine
-El repositoriio del curso Git Tutellus
+Curso de Git Online:
+####################
+
+El repositoriio del curso Git Tutellus.
